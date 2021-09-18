@@ -9,8 +9,8 @@
   - 06-cascade-fix [✅]
 
 2. Margin and Padding:
-  - margin-and-padding-1 [ ]
-  - margin-and-padding-2 [ ]
+  - margin-and-padding-1 [✅]
+  - margin-and-padding-2 [✅]
  
 3. Flex:
   - 01-flex-center [ ]
