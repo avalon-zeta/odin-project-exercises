@@ -17,3 +17,10 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 - Items are arranged horizontally on the page
 - Items are only 200px wide and the text wraps
 - Item text is centered
+
+#### Attempt
+- Have one large flex container
+- Plants and their images combined into one container item hybrid
+- align-self = align-items for individual flex items
+- Wrap text
+- align-content changes the spacing between the container items 
